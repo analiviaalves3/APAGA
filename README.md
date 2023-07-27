@@ -4,4 +4,4 @@ Meu nome é Ana Lívia Alves
 
 - Estou estudando na Alura;
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo 
+- Utilizo esse espaço para minha organização 
